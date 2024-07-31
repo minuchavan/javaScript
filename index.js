@@ -40,3 +40,10 @@ output=undefined
                a is defined...
 
                   */
+
+
+           document.getElementById("Clickme")
+           .addEventListener("click",function xyz(){
+            console.log("button clicked");
+
+           })    
